@@ -1,6 +1,6 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+[![lihua10](https://img.shields.io/badge/lihua10-github-blue?logo=github)](https://github.com/lihua10)
 
 He is currently pursuing a Bachelor's Degree in Computer Science and Technology, at School of Computer Science and Technology, 哈尔滨工程大学, China.
 
